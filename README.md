@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vandravon!
 - 👀 I’m interested in web dev!
-- 🌱 I’m currently learning HTML, CSS, JS; soon PHP and SQL!
+- 🌱 I’m currently learning HTML, CSS, JS!
 - 💞️ I’m looking to collaborate on Web small projects!
 - 📫 How to reach me: Github only (soon I'll add more!)
 
