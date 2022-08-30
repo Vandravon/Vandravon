@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Vandravon!
-- :disappointed_relieved: Smoll beginning, smoll code...
 - 👀 I’m interested in web dev!
-- 🌱 I’m currently learning HTML, CSS, JS, PHP and SQL (at least trying)!
-- 💻 I prefer Front-End.
+- 🌱 I’m currently learning HTML, CSS, JS, PHP and SQL!
+- 💻 I prefer Front-End. JS is not easy for me but I keep going!
 - 💞️ Now I'm pretty shy and trying to get better, but I hope I can collaborate on Web small projects later!
 - 📫 How to reach me: Github only (I hope I'll add more!)
 
