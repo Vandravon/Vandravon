@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Vandravon!
 - 👀 I’m interested in web dev!
-- 🌱 I’m currently learning HTML, CSS, JS, PHP and SQL!
-- 💻 I prefer Front-End. JS is not easy for me but I keep going!
-- 💞️ Now I'm pretty shy and trying to get better, but I hope I can collaborate on Web small projects later!
+- 🌱 I’m currently learning Angular, C# and dotNet!
 - 📫 How to reach me: Github only (I hope I'll add more!)
 
 <!---
