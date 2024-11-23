@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vandravon!
-- 👀 I’m interested in web dev!
-- 🌱 I’m currently learning Angular, C# and dotNet!
-- 📫 How to reach me: Github only (I hope I'll add more!)
+- 👀 I’m interested development!
+- 🌱 I'm an Administrator of several applications.
+- 🤓 I'm making scripts with Python to help me with my work!
 
 <!---
 Vandravon/Vandravon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
